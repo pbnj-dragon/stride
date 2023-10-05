@@ -1,5 +1,7 @@
 # STRIDE
 
+> :warning: This document is a draft and is subject to change
+
 ## Table of Contents
 
 <!-- toc -->
