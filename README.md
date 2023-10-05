@@ -1,6 +1,6 @@
 # STRIDE
 
-> :warning: This document is a draft and is subject to change
+> :warning: work in progress
 
 ## Table of Contents
 
